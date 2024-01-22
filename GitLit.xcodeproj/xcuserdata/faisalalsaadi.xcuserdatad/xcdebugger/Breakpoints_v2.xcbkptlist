@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A48C2E7B-A7A4-474F-8EEB-2E6FFA88B4B3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B380C86B-4807-42A4-ACE4-0C0BA64172A1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitLit/ViewModels/PullsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
+            landmarkName = "prepareMyPendingPullRequests()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2CCB52F0-F338-443E-9971-4AB159D7C628"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitLit/ViewModels/PullsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "fetchPullRequests()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6139540B-D000-4EF2-9345-B53C60B8547F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitLit/Views/Screens/Containers/MainNavigation.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "51CA6813-9BEA-4318-BDC6-1FD9702C6D3F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitLit/Views/Screens/Containers/MainNavigation.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D539DF90-4ABF-4AF6-8978-CC6F16876EBD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitLit/Views/Screens/Containers/MainNavigation.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D33E35A6-085D-476F-9A8F-4D2FDB9E84C0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitLit/ViewModels/RepoistoriesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "fetchRepos(loginFetch:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D33E35A6-085D-476F-9A8F-4D2FDB9E84C0 - 5ddc9398cad7f8a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;GitLit.RepositoryResponse, GitLit.MailAIError&gt;) -&gt; () in GitLit.RepositoriesViewModel.fetchPullRequests() -&gt; ()"
+                  moduleName = "GitLit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/faisalalsaadi/Documents/Development/GitLit/GitLit/ViewModels/RepoistoriesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1048">
+               </Location>
+               <Location
+                  uuid = "D33E35A6-085D-476F-9A8F-4D2FDB9E84C0 - 5ddc9398cad7f2d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;GitLit.RepositoryResponse, GitLit.MailAIError&gt;) -&gt; () in GitLit.RepositoriesViewModel.fetchPullRequests() -&gt; ()"
+                  moduleName = "GitLit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/faisalalsaadi/Documents/Development/GitLit/GitLit/ViewModels/RepoistoriesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "504">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7E3D68D7-4C5C-47FC-8B71-7F3416942663"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitLit/Views/Screens/SideMenuViews/PullsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF9B5804-DA52-4D43-A39D-776D89A03DD0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitLit/Views/Screens/SideMenuViews/PullsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC81D035-E4CA-499A-B5A1-A07EC4ECD8E7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitLit/ViewModels/PullsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "fetchPullRequests()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8DCF349B-6425-4619-BFC4-A0BB279F70B9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitLit/ViewModels/RepoistoriesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "fetchRepos(loginFetch:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "29345407-E151-40C7-90A3-2C5A79226EEF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitLit/ViewModels/RepoistoriesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "fetchRepos(loginFetch:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6E0DC2A2-1D8C-4024-82E7-72647B77EE6F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitLit/ViewModels/PullsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "fetchPullRequests()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D92A7536-A6AB-4E2B-B09D-DEC1D7469235"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitLit/ViewModels/PullsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "fetchPullRequests()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D92A7536-A6AB-4E2B-B09D-DEC1D7469235 - a57c9470101aa668"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GitLit.PullRequestsViewModel.fetchPullRequests() -&gt; ()"
+                  moduleName = "GitLit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/faisalalsaadi/Documents/Development/GitLit/GitLit/ViewModels/PullsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "508">
+               </Location>
+               <Location
+                  uuid = "D92A7536-A6AB-4E2B-B09D-DEC1D7469235 - a57c9470101aa668"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GitLit.PullRequestsViewModel.fetchPullRequests() -&gt; ()"
+                  moduleName = "GitLit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/faisalalsaadi/Documents/Development/GitLit/GitLit/ViewModels/PullsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "592">
+               </Location>
+               <Location
+                  uuid = "D92A7536-A6AB-4E2B-B09D-DEC1D7469235 - a57c9470101aa668"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GitLit.PullRequestsViewModel.fetchPullRequests() -&gt; ()"
+                  moduleName = "GitLit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/faisalalsaadi/Documents/Development/GitLit/GitLit/ViewModels/PullsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "712">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A83B125E-8B16-4CF1-8F16-08B10967458B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitLit/ViewModels/PullsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "fetchPullRequests()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A83B125E-8B16-4CF1-8F16-08B10967458B - a57c9470101aa111"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GitLit.PullRequestsViewModel.fetchPullRequests() -&gt; ()"
+                  moduleName = "GitLit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/faisalalsaadi/Documents/Development/GitLit/GitLit/ViewModels/PullsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "804">
+               </Location>
+               <Location
+                  uuid = "A83B125E-8B16-4CF1-8F16-08B10967458B - e3c9599453179aa9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;GitLit.PullRequestsGraphQL, GitLit.MailAIError&gt;) -&gt; () in GitLit.PullRequestsViewModel.fetchPullRequests() -&gt; ()"
+                  moduleName = "GitLit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/faisalalsaadi/Documents/Development/GitLit/GitLit/ViewModels/PullsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "268">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8DA1E647-321C-4175-B854-769A0F6EEF10"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitLit/ViewModels/RepoistoriesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "fetchRepos(loginFetch:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB0F4C00-B19B-4515-A2D1-8D452BA32301"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitLit/ViewModels/VersionViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "fetchAllVersions()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "22FF1271-53BF-42D9-BFE5-1760479899D4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitLit/Views/Screens/SideMenuViews/ReleaseView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "22FF1271-53BF-42D9-BFE5-1760479899D4 - e1abeca68fe5cca0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text, SwiftUI.Spacer, SwiftUI.Button&lt;SwiftUI.Text&gt;, Swift.Optional&lt;SwiftUI.Button&lt;SwiftUI.Text&gt;&gt;)&gt; in closure #1 () -&gt; SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text, SwiftUI.Spacer, SwiftUI.Button&lt;SwiftUI.Text&gt;, Swift.Optional&lt;SwiftUI.Button&lt;SwiftUI.Text&gt;&gt;)&gt;&gt; in closure #1 (GitLit.Version) -&gt; &lt;&lt;opaque return type of SwiftUI.View.listRowBackground&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(Swift.Optional&lt;&#x3c4;_1_0&gt;) -&gt; some&gt;&gt;.0 in GitLit.ReleaseListView.body.getter : some"
+                  moduleName = "GitLit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/faisalalsaadi/Documents/Development/GitLit/GitLit/Views/Screens/SideMenuViews/ReleaseView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "22FF1271-53BF-42D9-BFE5-1760479899D4 - e1abeca68fe5cbdc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text, SwiftUI.Spacer, SwiftUI.Button&lt;SwiftUI.Text&gt;, Swift.Optional&lt;SwiftUI.Button&lt;SwiftUI.Text&gt;&gt;)&gt; in closure #1 () -&gt; SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text, SwiftUI.Spacer, SwiftUI.Button&lt;SwiftUI.Text&gt;, Swift.Optional&lt;SwiftUI.Button&lt;SwiftUI.Text&gt;&gt;)&gt;&gt; in closure #1 (GitLit.Version) -&gt; &lt;&lt;opaque return type of SwiftUI.View.listRowBackground&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(Swift.Optional&lt;&#x3c4;_1_0&gt;) -&gt; some&gt;&gt;.0 in GitLit.ReleaseListView.body.getter : some"
+                  moduleName = "GitLit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/faisalalsaadi/Documents/Development/GitLit/GitLit/Views/Screens/SideMenuViews/ReleaseView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5E836EF-1EE6-4C36-ADA5-22C92E44C3A8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitLit/Core/Managers/NotificationManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "fireNotification()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E5E836EF-1EE6-4C36-ADA5-22C92E44C3A8 - b99d7e0c6e378bba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GitLit.NotificationManager.fireNotification() -&gt; ()"
+                  moduleName = "GitLit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/faisalalsaadi/Documents/Development/GitLit/GitLit/Core/Managers/NotificationManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "1892">
+               </Location>
+               <Location
+                  uuid = "E5E836EF-1EE6-4C36-ADA5-22C92E44C3A8 - b99d7e0c6e378bba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GitLit.NotificationManager.fireNotification() -&gt; ()"
+                  moduleName = "GitLit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/faisalalsaadi/Documents/Development/GitLit/GitLit/Core/Managers/NotificationManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "1976">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1AE77B5B-EC16-4664-BFB4-65DA3B5AF744"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitLit/Core/Managers/NotificationManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "fireNotification()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EACCE0F7-65A9-4042-8A62-BC06BE477491"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitLit/Models/PullRequestsGraphQL.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "170"
+            endingLineNumber = "170"
+            landmarkName = "checkIfUpdated(comparedTo:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EACCE0F7-65A9-4042-8A62-BC06BE477491 - ca2ca6a3a4f37cd7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift.Array&lt;&#x3c4;_0_0 where &#x3c4;_0_0 == GitLit.PullRequestSimplified&gt;.checkIfUpdated(comparedTo: Swift.Array&lt;GitLit.PullRequestSimplified&gt;) -&gt; Swift.Array&lt;GitLit.PullRequestSimplified&gt;"
+                  moduleName = "GitLit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/faisalalsaadi/Documents/Development/GitLit/GitLit/Models/PullRequestsGraphQL.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "169"
+                  endingLineNumber = "169"
+                  offsetFromSymbolStart = "1888">
+               </Location>
+               <Location
+                  uuid = "EACCE0F7-65A9-4042-8A62-BC06BE477491 - ca2ca6a3a4f37cb8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift.Array&lt;&#x3c4;_0_0 where &#x3c4;_0_0 == GitLit.PullRequestSimplified&gt;.checkIfUpdated(comparedTo: Swift.Array&lt;GitLit.PullRequestSimplified&gt;) -&gt; Swift.Array&lt;GitLit.PullRequestSimplified&gt;"
+                  moduleName = "GitLit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/faisalalsaadi/Documents/Development/GitLit/GitLit/Models/PullRequestsGraphQL.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "170"
+                  endingLineNumber = "170"
+                  offsetFromSymbolStart = "1888">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EFE5DF8C-68B9-4D82-BAA9-F875FE6047F1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitLit/Core/Managers/NotificationManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "fireNotification()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EFE5DF8C-68B9-4D82-BAA9-F875FE6047F1 - b99d7e0c6e378b41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GitLit.NotificationManager.fireNotification() -&gt; ()"
+                  moduleName = "GitLit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/faisalalsaadi/Documents/Development/GitLit/GitLit/Core/Managers/NotificationManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "1380">
+               </Location>
+               <Location
+                  uuid = "EFE5DF8C-68B9-4D82-BAA9-F875FE6047F1 - b99d7e0c6e378b41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GitLit.NotificationManager.fireNotification() -&gt; ()"
+                  moduleName = "GitLit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/faisalalsaadi/Documents/Development/GitLit/GitLit/Core/Managers/NotificationManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "1464">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B9B31B22-1E4C-4BCE-A891-6F08147ECBF6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitLit/Views/Screens/Containers/NavigationListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4DC13B5D-C401-4CF3-A245-D34CB06FF320"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitLit/Views/Screens/Containers/NavigationListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A88ACC9F-BE42-4DC4-9D29-40EB89941EEA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitLit/ViewModels/PullsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "fetchPullRequests()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
